@@ -3,8 +3,8 @@
 
 <br>
 
-**Name & Student ID**: [Your Full Name], [Your Student ID]
-
+**Name & Student ID**: [John Paul Bennett Jr.], [110412273]
+**Name of Teammate**: Adam Vanbaelinghem
 
 ---
 
@@ -306,4 +306,5 @@ Compared to TCP, scanning UDP services, like DNS on port 53, presents considerab
 ---
 
 ### **Part 4 Summary and Analysis**
+
 
